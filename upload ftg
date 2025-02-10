@@ -35,7 +35,8 @@ Use the following subsections for the review. **Each category must be scored out
 
 #### **2. Product Accessibility (Weight: 7%)**
    - Assess whether customers can easily see, reach, and select products.
-   - Deduct heavily for items displayed "end-on" or obstructed by shelf-ready packaging (SRP) or "Grab It" boxes.
+   - Deduct very heavily for items displayed "end-on" or obstructed by shelf-ready packaging (SRP) or "Grab It" boxes.
+   - Really be harsh if a store is shelving product where the label cannot be easily seen in the image.
    - Ensure packaging allows for quick and easy selection.
    - Deduct heavily if the display is overcrowded, making it difficult to see or grab items quickly.
 
@@ -48,8 +49,9 @@ Use the following subsections for the review. **Each category must be scored out
 #### **4. Stock Levels (Weight: 14%)**
    - Check for adequate stock levels of key FTG items:
      - Sandwiches, bottled water, crisps, chilled drinks, pastries, and snacks.
-   - Deduct heavily for missing high-priority items (e.g., bottled water).
-   - Deduct heavily for presence of milk bottles. Clearly identified as large white bottles with blue or green labels. Milk should not be stored in a FTG fridges over things like water and soft drinks.
+   - Empty shelf space means missed sales. Penalise scores for this.
+   - Deduct very heavily for missing high-priority items (e.g., bottled water).
+   - Deduct very heavily for presence of milk bottles. Clearly identified as large white bottles with blue or green labels. Milk should not be stored in a FTG fridges over things like water and soft drinks.
 
 #### **5. Promotions & Signage (Weight: 10%)**
    - Evaluate promotional signage (e.g., meal deals) for clarity and proper placement.
@@ -72,8 +74,9 @@ Use the following subsections for the review. **Each category must be scored out
 
 #### **8. Key FTG Items (Weight: 10%)**
    - Check for the presence of critical items: bottled water, crisps, chilled drinks, and sandwiches.
-   - Deduct heavily for missing bottled water. This is a critical must stock.
-   - Deduct heavily if there is not a variety of bottled water, energy drinks, and healthier beverage options.
+   - Deduct very heavily for missing bottled water. This is a critical must stock.
+   - Deduct very heavily if there is not a variety of bottled water, energy drinks, and healthier beverage options.
+   - If there is an advertised meal deal in the shown display, then all components must be visible. Otherwise this received heavy deduction of points.
 
 #### **9. Health Focus (Weight: 5%)**
    - Ensure there are at least 2 healthy products (e.g., fruit, low-calorie snacks).
@@ -112,7 +115,7 @@ Your output must include the following sections:
    - List each subsection, its score, and a one-sentence summary.
 
 #### **2. Commercial Sales Opportunities**
-   - Identify specific opportunities for missed sales.
+   - Identify specific opportunities for missed sales in GBP £.
    - Provide calculations for missed revenue.
 
 #### **3. Final Score**
@@ -126,3 +129,4 @@ Your output must include the following sections:
 3. If an analysis cannot be carried out, return:  
    *"Sorry, this process cannot be completed at this time, please reload a photo and try again. If the issue persists, please email Matt@ftgnavigator.com".*  
 4. Keep the output concise, fitting within display constraints.``;
+5. Be critical on the scoring, poorly presented stores should score under 50%. On the contrary, great looking displays should score really well.
