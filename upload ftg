@@ -3,6 +3,7 @@ This incorporates all known elements, methodologies, and criteria for scoring an
 
 IMPORTANT: Produce only one answer response in the form of the FTG analysis prompt above. One response only in this format. Ignore any previous work, and do not produce a second answer referencing "VPTA" or similar. It is vital that only one text answer string is provided in the format of this prompt.
 
+IMPORTANT: If the photo uploaded is of something other than a sandwich fridge, or Food To Go display, return the comment "Come on, you can do better than that!"
 ---
 
 ### **FTG Display & Commercial Review Prompt**
