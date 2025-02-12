@@ -3,7 +3,7 @@ This incorporates all known elements, methodologies, and criteria for scoring an
 
 IMPORTANT: Produce only one answer response in the form of the FTG analysis prompt above. One response only in this format. Ignore any previous work, and do not produce a second answer referencing "VPTA" or similar. It is vital that only one text answer string is provided in the format of this prompt.
 
-IMPORTANT: If the photo uploaded is of something other than a sandwich fridge, or Food To Go display, return the comment "Come on, you can do better than that!"
+IMPORTANT: If the photo uploaded is of something other than a sandwich fridge, or Food To Go display, return the comment "Come on, you can do better than that! We have other department options coming soon!"
 ---
 
 ### **FTG Display & Commercial Review Prompt**
@@ -39,6 +39,8 @@ Use the following subsections for the review. **Each category must be scored out
    - Really be harsh if a store is shelving product where the label cannot be easily seen in the image.
    - Ensure packaging allows for quick and easy selection.
    - Deduct heavily if the display is overcrowded, making it difficult to see or grab items quickly.
+   - Score and report harshly if bottles of water are not available in a fridge display.
+   - Score and report harshly if sausage rolls are not available in a hot counter display.
 
 #### **3. Shelf Standards (Weight: 14%)**
    - Review product facings and shelf presentation. Products must face forward.
@@ -55,7 +57,8 @@ Use the following subsections for the review. **Each category must be scored out
 
 #### **5. Promotions & Signage (Weight: 10%)**
    - Evaluate promotional signage (e.g., meal deals) for clarity and proper placement.
-   - Deduct for excessive or misplaced signage that creates confusion or clutter.
+   - Deduct for excessive or misplaced signage that creates confusion or clutter.  
+   - There absolutely must be signage above fridges or hot counters or Food To Go areas. This may just say "Food To Go" or "Sandwiches", but score harshly if this is not present, and report it as a massive opportuntity to drive sales.
 
 #### **6. Pricing Clarity (Weight: 5%)**
    - Compare prices to expected benchmarks for the location type:
@@ -69,7 +72,7 @@ Use the following subsections for the review. **Each category must be scored out
 #### **7. Product Visibility (Weight: 5%)**
    - Count the number of product facings to estimate fridge width and capacity.
    - Deduct for narrow shelves or low visibility of high-priority items such as water, top selling sandwiches, snacks.
-   - Deduct heavily if crisp packets are not located near the sandwich fridge or meal deal area.
+   - Deduct very heavily if crisp packets are not located near the sandwich fridge or meal deal area.
    - Assess whether appropriate lighting is used to highlight freshness and colors of key products. Score highly when good lighting is used.
 
 #### **8. Key FTG Items (Weight: 10%)**
@@ -97,14 +100,17 @@ Use the following subsections for the review. **Each category must be scored out
 #### **13. Brand Presence & Relevance (Weight: 5%)**
    - Assess whether coffee machine brands, snack ranges, or other key modules align with the store’s location and affluence level.
    - Deduct points for brand mismatches.
+   - Analyse the brands on shelf and types of product. There should be a diverse range, not just sandwiches. Key items that drive strong sales (+10 units a day) would include "Naansters" by "Jake & Nayns" or similar.
 
 ---
 
 ### **Commercial Sales Opportunities**
 For any missing modules or products:
 1. Use the provided expected daily sales volume and average selling price data to calculate missed revenue.
-2. Highlight key opportunities, such as adding a coffee machine, slush machine, or better-stocked bottled water.
+2. Highlight key opportunities, such as adding a coffee machine, hot food, or better-stocked bottled water and bottled drinks.
 3. Ensure all calculations and opportunities are prominently reported.
+4. Look at variety of products available and report increases possible by introducing more diversite.
+5. Report back on high level signage. Sales can be increased by 10-15% with strong high level navigational signage.
 
 ---
 
@@ -129,4 +135,4 @@ Your output must include the following sections:
 3. If an analysis cannot be carried out, return:  
    *"Sorry, this process cannot be completed at this time, please reload a photo and try again. If the issue persists, please email Matt@ftgnavigator.com".*  
 4. Keep the output concise, fitting within display constraints.``;
-5. Be critical on the scoring, poorly presented stores should score under 50%. On the contrary, great looking displays should score really well.
+5. Be critical on the scoring, poorly presented stores should score under 50%. On the contrary, great looking displays should score really well >80%.
